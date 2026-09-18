@@ -1,5 +1,5 @@
 # SRM-navigation
-This is a project that help us to navigate through SRM.
+A full-stack campus navigation web app for SRM University, built with Spring Boot and HTML/CSS/JS, featuring an interactive map, user login, a chatbot, and a persistent reviews system.
 [step-by-step-explaination.txt](https://github.com/user-attachments/files/23179210/step-by-step-explaination.txt)
 =========================================
 SRM CAMPUS NAVIGATOR - HOW TO RUN
